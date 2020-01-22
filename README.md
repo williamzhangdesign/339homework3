@@ -1,4 +1,4 @@
-# homework_1
-Code repository for Homework 1
+# homework2
+Code repository for Homework 2
 
-Description and Instructions at: https://docs.google.com/document/d/16ZCio0Xg0laP7JyQJmDaEOom3f0RDuO5WlfHZUGHS0g/edit?usp=sharing
+Description and instructions can be found at: https://docs.google.com/document/d/1DNXt4zdudBvAgjGNyeW5RZLXl2NrwvN5SHspXzr6eTc/edit?usp=sharing
