@@ -42,8 +42,9 @@ p{
 }
 
 a{
+  padding-top: 10px;
   font-size: 16px;
-  color:  #B21F50;
+  color: #C12258;
   text-decoration: underline;
   text-decoration-style: wavy;
 }
