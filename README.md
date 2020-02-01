@@ -1,4 +1,5 @@
-# homework2
-Code repository for Homework 2
+# homework3
 
-Description and instructions can be found at: https://docs.google.com/document/d/1DNXt4zdudBvAgjGNyeW5RZLXl2NrwvN5SHspXzr6eTc/edit?usp=sharing
+Code repository for Homework 3
+
+Description and instructions can be found at: https://docs.google.com/document/d/1i8xb_xV4PQxd1iC9OMhnnH_2LfEGGzswsJCNbrBUXiU/edit?usp=sharing
