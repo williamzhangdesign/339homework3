@@ -48,20 +48,24 @@ a{
   text-decoration-style: wavy;
 }
 
+table{
+  border: 2px solid black;
+  border-radius: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+
+}
+
 thead {
   border-radius: 15px;
+
 }
 
 tbody {
   border-radius: 15px;
 
-}
-table{
-    border-top: 2px solid black;
-    text-align: center;
-    padding: 15px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 
@@ -75,10 +79,21 @@ table{
   text-align: center;
   text-transform: uppercase;
 }
+.colhead:first-child {
+  border-top-left-radius: 15px;
+}
+
+.colhead:last-child {
+  border-top-right-radius: 15px;
+
+}
 
 .rowhead{
-  border: 2px;
-  border-color: black;
+  border: 2px black;
+
+}
+th.rowhead:last-child {
+  border-radius: 15px;
 }
 
 
@@ -99,15 +114,19 @@ tr:hover {
   background-color: rgba(126, 8, 32, 0.5);
 }
 
-
-
-
-*:focus {
-  border: black;
+tr:last-child{
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
 }
 
-thead tr:first-child th:first-child{
+
+
+
+a:focus {
+  border: 2px black;
 }
+
+
 
 footer{
   position:fixed;
